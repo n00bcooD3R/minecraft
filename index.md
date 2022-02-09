@@ -19,6 +19,21 @@ Open Minecraft app and Click on Play.
 On top side you will see 3 options <b>WORLDS--FRIENDS--SERVERS<b> 
   <br>CLICK ON SERVERS.<br>
   <img width="800" height="400" alt="Your internet speed sucks" src="prt1.jpg">
+  <br>
+  <br>
+  <br>
+    <img width="800" height="400" alt="Your internet speed sucks" src="prt2.jpg">
+  <br>
+  <br>
+  <br>
+    <img width="800" height="400" alt="Your internet speed sucks" src="prt3.jpg">
+  <br>
+  <br>
+  <br>
+    <img width="800" height="400" alt="Your internet speed sucks" src="prt4.jpg">
+  <br>
+  <br>
+  <br>
 
 
 
