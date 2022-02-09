@@ -17,8 +17,8 @@ Discord server isnt active yet . sorry for the inconviniance
 Open Minecraft app and Click on Play.
 <br>
 On top side you will see 3 options <b>WORLDS--FRIENDS--SERVERS<b> 
-  <br>CLICK ON SERVERS.
-  <img width="800" height="400" alt="Your internet speed sucks" src="-attributes/prt1.jpg"></img>
+  <br>CLICK ON SERVERS.<br>
+  <img width="800" height="400" alt="Your internet speed sucks" src="prt1.jpg">
 
 
 
