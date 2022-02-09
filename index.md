@@ -22,6 +22,7 @@ On top side you will see 3 options <b>WORLDS--FRIENDS--SERVERS<b>
   <br>
   <br>
   <br>
+  <b>Click on ADD Server BUTTON</b>
     <img width="800" height="400" alt="Your internet speed sucks" src="prt2.jpg">
   <br>
   <br>
