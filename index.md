@@ -38,12 +38,11 @@ On top side you will see 3 options <b>WORLDS--FRIENDS--SERVERS<b>
     On port type in <code>41740</code>
     <br>
     Type everything Accordingly as Given Below
-    <b>
+    </b>
+  <br>
     
     <img width="800" height="400" alt="Your internet speed sucks" src="prt4.jpg">
-  <br>
-  <br>
-  <br>
+
 
 
 
