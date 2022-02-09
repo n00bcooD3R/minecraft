@@ -31,6 +31,14 @@ On top side you will see 3 options <b>WORLDS--FRIENDS--SERVERS<b>
   <br>
   <br>
   <br>
+  <b>ADD any name to SERVER according  to your wish
+    <br>
+    ON SERVER IP type in <code>404craft.ml</code>
+    <br>
+    On port type in <code>41740</code>
+    <br>
+    Type everything Accordingly as Given Below
+    
     <img width="800" height="400" alt="Your internet speed sucks" src="prt4.jpg">
   <br>
   <br>
