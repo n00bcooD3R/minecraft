@@ -41,7 +41,7 @@ On top side you will see 3 options <b>WORLDS--FRIENDS--SERVERS<b>
     </b>
   <br>
     
-  <img width="800" height="400" alt="Your internet speed sucks" src="prt4.jpg"></img>
+  <img width="800" height="400" alt="Your internet speed sucks" src="prt4.jpg">
 <br>
   Discord Server Will be set up Soon.
 
