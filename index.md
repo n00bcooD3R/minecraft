@@ -9,9 +9,11 @@ Given below is list of options where you can download from .Click on your preffe
 ### Set-up Voice Chat
 
 
-Download Discord [CLICK-HERE](https://play.google.com/store/apps/details?id=com.discord) 
+Download Discord [CLICK-HERE-TO-DOWNLOAD-DISCORD](https://play.google.com/store/apps/details?id=com.discord) 
 <br>
-Discord server isnt active yet . sorry for the inconviniance 
+Discord server isnt fully active  . YOU can still join and use VOICE CHANNELS
+<br>
+[CLICK-TO-JOIN-DISCORD](https://discord.gg/JRvkgsKVfU)
 
 ### JOIN THE SERVER 
 Open Minecraft app and Click on Play.
@@ -43,7 +45,7 @@ On top side you will see 3 options <b>WORLDS--FRIENDS--SERVERS<b>
     
   <img width="800" height="400" alt="Your internet speed sucks" src="prt4.jpg">
 <br>
-  Discord Server Will be set up Soon.(sorry for the inconvenience)
+  Discord Server Does'nt Have any active Bot's To turn on and off server . Sorry for the inconvinience updates are on the way .
 
 
 
