@@ -36,7 +36,7 @@ On top side you will see 3 options <b>WORLDS--FRIENDS--SERVERS<b>
     <br>
     ON SERVER IP type in <code>404craft.tk</code>
     <br>
-    On port type in <code>41740</code>
+    On port type in <code>19824</code>
     <br>
     Type everything Accordingly as Given Below
     </b>
@@ -44,7 +44,7 @@ On top side you will see 3 options <b>WORLDS--FRIENDS--SERVERS<b>
     
   <img width="800" height="400" alt="Your internet speed sucks" src="prt4.jpg">
 <br>
-  Discord Server Does'nt Have any active Bot's To turn on and off server . Sorry for the inconvinience updates are on the way .
+  Discord Server Does'nt Have any active Bot's To turn on and off server . The bot is under development stage contact admin for bot usage and testing purposes . 
 
 
 
