@@ -12,7 +12,7 @@ Download Discord [CLICK-HERE-TO-DOWNLOAD-DISCORD](https://play.google.com/store/
 <br>
 Discord server isnt fully active  . YOU can still join and use VOICE CHANNELS
 <br>
-[CLICK-TO-JOIN-DISCORD](https://discord.gg/JRvkgsKVfU)
+[CLICK-TO-JOIN-DISCORD](https://404craft.cf/discord.html)
 
 ### JOIN THE SERVER 
 Open Minecraft app and Click on Play.
