@@ -42,7 +42,7 @@ On top side you will see 3 options <b>WORLDS--FRIENDS--SERVERS<b>
     </b>
   <br>
     
-  <img width="800" height="400" alt="Your internet speed sucks" src="prt4.jpg">
+  <img width="800" height="400" alt="Your internet speed sucks" src="server-img-v3.jpeg">
 <br>
   Discord Server Does'nt Have any active Bot's To turn on and off server . The bot is under development stage contact admin for bot usage and testing purposes . 
 
